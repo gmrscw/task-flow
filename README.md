@@ -9,6 +9,7 @@ A clean and simple task management web app to organize your daily tasks — add,
 ## 📸 Screenshot
 
 ![TaskFlow Screenshot](./screenshots/taskflow-preview.png)
+![TaskFlow Screenshot](./screenshots/taskflow-preview1.png)
 
 ---
 
